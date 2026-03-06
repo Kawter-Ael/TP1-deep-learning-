@@ -4,7 +4,7 @@
 
 ## Auteur
 
-**Kawter Alouane**
+**Kawter ALOUANE**
 
 ---
 
