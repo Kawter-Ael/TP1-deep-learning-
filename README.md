@@ -67,7 +67,7 @@ Le projet suit les étapes principales suivantes :
 
 ---
 
-# Architecture du modèle
+# Architecture du modèle :
 
 Le modèle est un **réseau de neurones artificiel** composé de plusieurs couches :
 
