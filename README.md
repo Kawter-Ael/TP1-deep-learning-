@@ -8,9 +8,18 @@
 
 ---
 
-# Description du projet
+# Description du projet:
 
 Ce projet a pour objectif de construire un **modèle d’apprentissage profond (Deep Learning)** capable de **prédire le prix des maisons** à partir du dataset **Ames Housing**.
+
+#Structure de projet :
+projet/
+│
+├── AmesHousing.csv
+├── README.md
+└── tp1_DL.ipynb
+
+
 
 Le dataset contient plusieurs caractéristiques des maisons situées à **Ames, Iowa (États-Unis)**, telles que :
 
