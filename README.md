@@ -1,4 +1,4 @@
-# TP1-deep-learning-:
+# TP1-deep-learning:
 
 # Prédiction du prix des maisons avec Deep Learning (Ames Housing)
 
